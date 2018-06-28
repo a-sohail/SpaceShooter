@@ -7,7 +7,10 @@ The game is hosted on a LAN server because I didn't want to pay for multiplayer 
 You can play by downloading the SpaceShooter folder and running the Game.exe in the Builds folder.
 
 One person should host a game, initialize broadcasting and then start broadcasting.
-![Server](https://raw.githubusercontent.com/iK-Styx/SpaceShooter/master/Space%20Shooter/Screenshots/InitialState.png)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iK-Styx/SpaceShooter/master/Space%20Shooter/Screenshots/InitialState.png">
+</p>
 
 The other player should listen to broadcasting. A list of games will appear, select the first one and let the host start game.
 

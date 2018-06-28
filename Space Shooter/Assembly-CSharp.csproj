@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C6DE2362-54B9-37F0-3FAC-49287BDC06F8}</ProjectGuid>
+    <ProjectGuid>{28FCF307-BCEB-DF00-C466-08C29A16E02D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -51,16 +51,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\_Complete-Game\Scripts\Done_BGScroller.cs" />
-     <Compile Include="Assets\_Complete-Game\Scripts\Done_DestroyByBoundary.cs" />
-     <Compile Include="Assets\_Complete-Game\Scripts\Done_DestroyByContact.cs" />
-     <Compile Include="Assets\_Complete-Game\Scripts\Done_DestroyByTime.cs" />
-     <Compile Include="Assets\_Complete-Game\Scripts\Done_EvasiveManeuver.cs" />
-     <Compile Include="Assets\_Complete-Game\Scripts\Done_GameController.cs" />
-     <Compile Include="Assets\_Complete-Game\Scripts\Done_Mover.cs" />
-     <Compile Include="Assets\_Complete-Game\Scripts\Done_PlayerController.cs" />
-     <Compile Include="Assets\_Complete-Game\Scripts\Done_RandomRotator.cs" />
-     <Compile Include="Assets\_Complete-Game\Scripts\Done_WeaponController.cs" />
      <Compile Include="Assets\Scripts\AsteroidController.cs" />
      <Compile Include="Assets\Scripts\Billboard.cs" />
      <Compile Include="Assets\Scripts\CameraController.cs" />
@@ -72,7 +62,6 @@
      <Compile Include="Assets\Scripts\PlayerController_Net.cs" />
      <Compile Include="Assets\Scripts\RandomRotator.cs" />
      <Compile Include="Assets\Scripts\ShotController.cs" />
-     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>F:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
